@@ -43,12 +43,6 @@ Planeo lanzarlo en un futuro si todo sale bien 😉
 
 ---
 
-### 📸 Captura de pantalla
-
-![Preview](./preview.png) <!-- Si tenés una captura de la app, ponela en la raíz del proyecto -->
-
----
-
 ### 🧠 Autor
 
 **Nacho Plays**  
